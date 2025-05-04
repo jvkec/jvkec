@@ -4,13 +4,16 @@ currently studying computer engineering at the university of toronto.
 i like building stuff that’s useful — sometimes with code, sometimes with caffeine.
 
 <!--
+## some things about me:
+- i'm interested in...
+
 ## things i’ve worked on lately:
 - 📊 a time series forecasting api (lstm, arima, prophet — the whole gang)
 - 🧾 a bookkeeping app for my dad’s small business (node + mongo + a lot of console.logs)
 -->
 
 ## some of my other links:
-- 🧠 [linkedin](https://linkedin.com/in/johnvkim)
+- 🔗 [linkedin](https://linkedin.com/in/johnvkim)
 - 🌐 [portfolio](https://johnvkim.vercel.app/)
 - 📫 johnv.kim@mail.utoronto.ca
 
