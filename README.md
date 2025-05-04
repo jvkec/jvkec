@@ -9,7 +9,7 @@ i like building stuff that’s useful — sometimes with code, sometimes with ca
 - 🧾 a bookkeeping app for my dad’s small business (node + mongo + a lot of console.logs)
 -->
 
-## connect + contact me:
+## some of my other links:
 - 🧠 [linkedin](https://linkedin.com/in/johnvkim)
 - 🌐 [portfolio](https://johnvkim.vercel.app/)
 - 📫 johnv.kim@mail.utoronto.ca
