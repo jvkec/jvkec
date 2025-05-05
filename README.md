@@ -1,8 +1,8 @@
 # hey, i'm john 👋
 
-- currently studying computer engineering at the university of toronto.  
-- i like building stuff that’s useful — sometimes with code, sometimes with caffeine.
-- currently building something to help people take control of their lives again
+i'm currently studying computer engineering at the university of toronto.  
+i like building stuff that’s useful — sometimes with code, sometimes with caffeine.
+i'm currently building something to help people take control of their lives again.
 <!--
 ## some things about me:
 - i'm interested in...
