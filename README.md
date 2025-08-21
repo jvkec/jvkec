@@ -14,7 +14,6 @@ i like building stuff that’s useful — sometimes with code, sometimes with ca
 
 ## some of my other links:
 - 🔗 [linkedin](https://linkedin.com/in/johnvkim)
-<!-- - 🌐 [portfolio](https://johnvkim.vercel.app/) -->
 - 📫 johnv.kim@mail.utoronto.ca
-
+<!--- 🌐 [portfolio](https://johnvkim.vercel.app/) -->
 <!-- probably should update this more often -->
