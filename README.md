@@ -1,17 +1,14 @@
 # hi, i'm john 👋
 
-i'm currently studying ece @ the university of toronto.  
-i like building stuff that’s useful — sometimes with code, sometimes with caffeine.
+i'm studying ece @ the university of toronto.  
+i like building useful things — sometimes with code, sometimes with caffeine.
 
-<!--
-## some things about me:
-- i'm interested in...
+## about me
+- engineering student with experience in research, software development, and early stage startups  
+- interests: distributed systems, computer architecture, chip design, and ai inference  
 
-## things i’ve worked on lately:
-- 📊 a time series forecasting api (lstm, arima, prophet — the whole gang)
-- 🧾 a bookkeeping app for my dad’s small business (node + mongo + a lot of console.logs)
--->
+## currently working on
+- learning cuda and parallel programming  
 
-reach me @: johnv.kim@mail.utoronto.ca
-<!--- 🌐 [portfolio](https://johnvkim.vercel.app/) -->
-<!-- probably should update this more often -->
+## contact
+johnv [dot] kim [at] mail [dot] utoronto [dot] ca
