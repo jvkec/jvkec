@@ -1,6 +1,6 @@
 # hi, i'm john 👋
 
-i'm currently studying computer engineering at the university of toronto.  
+i'm currently studying ece @ the university of toronto.  
 i like building stuff that’s useful — sometimes with code, sometimes with caffeine.
 
 <!--
