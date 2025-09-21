@@ -7,8 +7,11 @@ i like building useful things — sometimes with code, sometimes with caffeine.
 - engineering student with experience in research, software development, and seed/pre-seed stage startups  
 - interests: distributed systems, computer architecture, chip design, and ai inference  
 
+## my stack
+c/c++, verilog, go, python
+
 ## currently working on
-- cuda and parallel programming  
+- parallel programming (cuda)
 
 ## what you can expect to see when going through my repositories
 my public github consists of learning projects and hackathon projects. if there are any repositories ive made youve seen elsewhere (linkedin, website [coming soon!]) and you want to take a look, shoot me a message anywhere!
