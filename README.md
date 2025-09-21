@@ -14,7 +14,7 @@ c/c++, verilog, go, python
 - parallel programming (cuda)
 
 ## what you can expect to see when going through my repositories
-my public github consists of learning projects and hackathon projects. if there are any repositories ive made youve seen elsewhere (linkedin, website [coming soon!]) and you want to take a look, shoot me a message anywhere!
+my public github consists of learning projects and hackathon projects. if there are any repositories ive made youve seen elsewhere (linkedin, website [coming soon!]) and you want to learn more, shoot me a message anywhere!
 
 *each of my learning projects contain my motivations and goals for the project in the README.md, so take a look if you want to know the “why”s
 
