@@ -7,9 +7,6 @@ i like building useful things — sometimes with code, sometimes with caffeine.
 - engineering student with experience in research, software development, and seed/pre-seed stage startups  
 - interests: distributed systems, computer architecture, chip design, and ai inference  
 
-## my stack
-c/c++, verilog, go, python
-
 ## currently working on
 - parallel programming (cuda)
 
