@@ -8,7 +8,9 @@ i like building useful things — sometimes with code, sometimes with caffeine.
 - interests: distributed systems, computer architecture, chip design, and ai inference  
 
 ## currently working on
-- parallel programming (cuda)
+- parallel programming
+- distributed task orchestration platform
+- ai acceleration via low level designs
 
 ## my dev stack
 
