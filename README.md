@@ -46,7 +46,7 @@ i like building useful things — sometimes with code, sometimes with caffeine.
 
 
 ## what you can expect to see when going through my repositories
-my public github consists of projects ive built to scratch that itch of curiosity. if there are any repositories ive made youve seen elsewhere (linkedin, website [coming soon!]) and you want to learn more, shoot me a message anywhere!
+my public github consists of projects ive built to scratch that itch of curiosity. if there are any projects ive made youve seen elsewhere (linkedin, website [coming soon!]) and you want to learn more, shoot me a message anywhere!
 
 note: each of my learning projects contain my motivations and goals for the project in the README.md, so take a look if you want to know the “why”s
 
