@@ -9,7 +9,6 @@ i like building useful things — sometimes with code, sometimes with caffeine.
 
 ## currently working on
 - parallel programming
-- distributed task orchestration platform
 - ai acceleration via low level designs
 - relearning AI from the very basics :)
 
