@@ -1,16 +1,14 @@
 # hi, i'm john 👋
 
-i'm studying ece @ the university of toronto.  
-i like building useful things — sometimes with code, sometimes with caffeine.
+i'm studying ece @ the university of toronto.
 
 ## about me
 - engineering student with experience in research, software development, and seed/pre-seed stage startups  
-- interests: distributed systems, computer architecture, chip design, and ai inference  
+- interests: distributed systems, compilers, chip design, and ai inference  
 
 ## currently working on
 - parallel programming
 - ai acceleration via low level designs
-- relearning AI from the very basics :)
 
 ## my dev stack
 
@@ -45,7 +43,7 @@ i like building useful things — sometimes with code, sometimes with caffeine.
 
 
 ## what you can expect to see when going through my repositories
-my public github consists of projects ive built to scratch that itch of curiosity. if there are any projects ive made youve seen elsewhere (linkedin, website [coming soon!]) and you want to learn more, shoot me a message anywhere!
+my public github consists of projects ive built to scratch an itch to build. shoot me a message if you want to learn more of any of them.
 
 note: each of my learning projects contain my motivations and goals for the project in the README.md, so take a look if you want to know the “why”s
 
