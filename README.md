@@ -1,4 +1,4 @@
-# hi, i'm john 👋
+# hi, i'm john👋
 
 i'm studying ece @ the university of toronto.
 
@@ -40,12 +40,6 @@ i'm studying ece @ the university of toronto.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/CI%2FCD-004088?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
-## what you can expect to see when going through my repositories
-my public github consists of projects ive built to scratch an itch to build. shoot me a message if you want to learn more of any of them.
-
-note: each of my learning projects contain my motivations and goals for the project in the README.md, so take a look if you want to know the “why”s
 
 ## contact
 johnv [dot] kim [at] mail [dot] utoronto [dot] ca
