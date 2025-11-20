@@ -4,11 +4,13 @@ i'm studying ece @ the university of toronto.
 
 ## about me
 - engineering student with experience in research, software development, and seed/pre-seed stage startups  
-- interests: distributed systems, compilers, chip design, and ai inference  
+- interests: distributed systems, compilers, digital design, and ai inference  
 
 ## currently working on
-- parallel programming
-- ai acceleration via low level designs
+- ml compilers
+- hls
+- edge compute
+- digital design
 
 ## my dev stack
 
