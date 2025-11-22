@@ -19,6 +19,7 @@ i'm studying ece @ the university of toronto.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-4B9CD3?style=for-the-badge&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-8E44AD?style=for-the-badge&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
