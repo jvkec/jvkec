@@ -13,6 +13,7 @@ i'm studying ece @ the university of toronto.
 - edge compute
 - digital design
 
+<!--
 ## my dev stack
 
 #### languages
@@ -38,12 +39,6 @@ i'm studying ece @ the university of toronto.
 #### cloud & infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-#### devOps & tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Github Actions](https://img.shields.io/badge/CI%2FCD-004088?style=for-the-badge&logo=githubactions&logoColor=white)
-
+-->
 ## contact
 johnv [dot] kim [at] mail [dot] utoronto [dot] ca
