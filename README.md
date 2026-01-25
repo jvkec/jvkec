@@ -5,7 +5,6 @@ i'm studying ece @ the university of toronto.
 ## about me
 - experience in research, software development, and seed/pre-seed stage startups  
 - interests: distributed systems, compilers, digital design, and ai inference
-- come visit my website [here](https://jvkec.github.io)
 
 ## currently working on
 - ml compilers
