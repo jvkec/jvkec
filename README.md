@@ -1,6 +1,6 @@
 ## john kim
-ece @ uoft
-passionate about making tech 4 good (may or may not be 4 shareholder value)
+- ece @ uoft
+- passionate about making tech 4 good (may or may not be 4 shareholder value)
 
 **> background**   
 research, system software, hardware, early-stage ventures
