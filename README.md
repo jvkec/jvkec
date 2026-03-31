@@ -1,4 +1,6 @@
 ## john kim
+
+**> about me**  
 ece @ uoft  
 passionate about making tech 4 good (may or may not be 4 shareholder value)  
 
