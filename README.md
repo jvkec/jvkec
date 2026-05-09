@@ -1,14 +1,13 @@
 ## john kim
 
 **> about me**  
-ece @ uoft  
-passionate about making tech 4 good (may or may not be 4 shareholder value)  
+ece @ uoft
 
 **> background**   
-research, system software, hardware, early-stage ventures
+ai acceleration, research, hardware
 
 **> interests**  
-edge ai, low-level systems
+edge ai, ai hardware
 
 *reach me at: johnv [dot] kim [at] mail [dot] utoronto [dot] ca*  
 *last updated: feb 10, 2026*
