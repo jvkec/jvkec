@@ -4,7 +4,7 @@
 ece @ uoft
 
 **> background**   
-ai acceleration, research, hardware
+ai acceleration, research, software
 
 **> interests**  
 edge ai, ai hardware
